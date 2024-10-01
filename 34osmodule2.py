@@ -14,7 +14,7 @@ import os
 # os.remove(file_path)
 
 #removind a directory
-# os.rmdir("data")
+# os.rmdir("data") #only if dir is empty
 
 #rename file type
 # files= os.listdir("data")
